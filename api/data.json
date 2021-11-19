@@ -1,8 +1,8 @@
 {
-    "login": {
-        "username": "CEO",
-        "password": "Tesla"
-    },
+    "login": [ {"username": "CEO",
+        "password": "Tesla"}]
+       
+    ,
     "info": {
         "pages": 2,
         "next": "https://maitaneabad.github.io/api-technical-test-ravenloop/api/data.json?page=2",
