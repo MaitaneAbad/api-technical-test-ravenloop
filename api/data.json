@@ -1,8 +1,7 @@
 {
     "login": {
         "username": "CEO",
-        "password": "8f3182163857c5463c883017ff1cd3cc", 
-        // la contraseña es Tesla
+        "password": "Tesla",
         "prev": null
     },
     "info": {
