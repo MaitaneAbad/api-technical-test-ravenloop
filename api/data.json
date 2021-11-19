@@ -1,4 +1,10 @@
 {
+    "login": {
+        "username": "CEO",
+        "password": "8f3182163857c5463c883017ff1cd3cc", 
+        // la contraseña es Tesla
+        "prev": null
+    },
     "info": {
         "pages": 2,
         "next": "https://maitaneabad.github.io/api-technical-test-ravenloop/api/data.json?page=2",
