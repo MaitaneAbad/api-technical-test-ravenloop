@@ -1,6 +1,6 @@
 {
-    "login": [ {"username": "CEO",
-        "password": "Tesla"}]
+    "login":  {"username": "CEO",
+        "password": "Tesla"}
        
     ,
     "info": {
