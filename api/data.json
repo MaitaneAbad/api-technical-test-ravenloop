@@ -2,7 +2,7 @@
 {
     "info": {
         "pages": 2,
-        "next" :" https://maitaneabad.github.io/api-technical-test-ravenloop/api/data.json?page=2",
+        "next" :"https://maitaneabad.github.io/api-technical-test-ravenloop/api/data.json?page=2",
         "prev":null
     },
     "results": []
