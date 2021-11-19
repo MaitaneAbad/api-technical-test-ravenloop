@@ -1,8 +1,7 @@
 {
     "login": {
         "username": "CEO",
-        "password": "Tesla",
-        "prev": null
+        "password": "Tesla"
     },
     "info": {
         "pages": 2,
