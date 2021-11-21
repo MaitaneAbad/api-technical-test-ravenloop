@@ -50,7 +50,7 @@
             "hash": {
                 "md5": "d5430c6e37d7fac3774e55998e426aa4",
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                "sha-1": "75a21a01cd23b730e1711c2890e9970d2f01a9ad"
+                "sha1": "75a21a01cd23b730e1711c2890e9970d2f01a9ad"
             },
             "ip":"192.198.0.91.",
             "scoreAnalysis":"100",
@@ -77,7 +77,7 @@
             "hash": {
                 "md5": "8f2166d801e5e6c2899681341077c3de",
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                "sha-1": "ce7590c6e4250f30a02304d2d46b528811676c2f"
+                "sha1": "ce7590c6e4250f30a02304d2d46b528811676c2f"
             },
             "ip":"112.167.0.81.",
             "scoreAnalysis":"0",
@@ -104,7 +104,7 @@
             "hash": {
                 "md5": "631711b42117242ce3b4618c8a5fda50",
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                "sha-1": "70719cf0a76c1c95dd1e4fb8835ff2795da8e94e"
+                "sha1": "70719cf0a76c1c95dd1e4fb8835ff2795da8e94e"
             },
             "ip":"62.68.60.11.",
             "scoreAnalysis":"90",
