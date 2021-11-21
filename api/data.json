@@ -22,14 +22,14 @@
             "hash": {
                 "md5": "63ceba33656a5a543aca8536acfbfdd1",
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                "sha-1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
+                "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
             },
             "ip":"192.168.0.11.",
             "scoreAnalysis":"50",
             "fileList": {
-                "1":"fichero 1",
-                "2":"fichero 2",
-                "3":"fichero 3"
+                "fileOne":"fichero 1",
+                "fileTwo":"fichero 2",
+                "fileThree":"fichero 3"
             },
             "antivirusList":{
                 "avast":"clean",
@@ -55,9 +55,9 @@
             "ip":"192.198.0.91.",
             "scoreAnalysis":"100",
             "fileList": {
-                "1":"fichero 1",
-                "2":"fichero 2",
-                "3":"fichero 3"
+                "fileOne":"fichero 1",
+                "fileTwo":"fichero 2",
+                "fileThree":"fichero 3"
             },
             "antivirusList":{
                 "avast":"malicious",
@@ -82,9 +82,9 @@
             "ip":"112.167.0.81.",
             "scoreAnalysis":"0",
             "fileList": {
-                "1":"fichero 1",
-                "2":"fichero 2",
-                "3":"fichero 3"
+                "fileOne":"fichero 1",
+                "fileTwo":"fichero 2",
+                "fileThree":"fichero 3"
             },
             "antivirusList":{
                 "avast":"clean",
@@ -109,9 +109,9 @@
             "ip":"62.68.60.11.",
             "scoreAnalysis":"90",
             "fileList": {
-                "1":"fichero 1",
-                "2":"fichero 2",
-                "3":"fichero 3"
+                "fileOne":"fichero 1",
+                "fileTwo":"fichero 2",
+                "fileThree":"fichero 3"
             },
             "antivirusList":{
                 "avast":"malicius",
