@@ -24,6 +24,8 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha-1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
             },
+            "ip":"192.168.0.11.",
+            "scoreAnalysis":"50",
             "fileList": {
                 "1":"fichero 1",
                 "2":"fichero 2",
@@ -50,6 +52,8 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha-1": "75a21a01cd23b730e1711c2890e9970d2f01a9ad"
             },
+            "ip":"192.198.0.91.",
+            "scoreAnalysis":"100",
             "fileList": {
                 "1":"fichero 1",
                 "2":"fichero 2",
@@ -75,6 +79,8 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha-1": "ce7590c6e4250f30a02304d2d46b528811676c2f"
             },
+            "ip":"112.167.0.81.",
+            "scoreAnalysis":"0",
             "fileList": {
                 "1":"fichero 1",
                 "2":"fichero 2",
@@ -100,6 +106,8 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha-1": "70719cf0a76c1c95dd1e4fb8835ff2795da8e94e"
             },
+            "ip":"62.68.60.11.",
+            "scoreAnalysis":"90",
             "fileList": {
                 "1":"fichero 1",
                 "2":"fichero 2",
