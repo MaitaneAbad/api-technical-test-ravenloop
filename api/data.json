@@ -53,7 +53,7 @@
                 "sha1": "75a21a01cd23b730e1711c2890e9970d2f01a9ad"
             },
             "ip":"192.198.0.91.",
-            "scoreAnalysis":"100",
+            "scoreAnalysis":"80",
             "fileList": {
                 "fileOne":"fichero 1",
                 "fileTwo":"fichero 2",
@@ -107,7 +107,7 @@
                 "sha1": "70719cf0a76c1c95dd1e4fb8835ff2795da8e94e"
             },
             "ip":"62.68.60.11.",
-            "scoreAnalysis":"100",
+            "scoreAnalysis":"90",
             "fileList": {
                 "fileOne":"fichero 1",
                 "fileTwo":"fichero 2",
