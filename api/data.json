@@ -20,7 +20,7 @@
                 "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
             },
             "ip":"192.168.0.11.",
-            "scoreAnalysis":"50",
+            "scoreAnalysis":"60",
             "fileList": {
                 "fileOne":"fichero 1",
                 "fileTwo":"fichero 2",
@@ -30,7 +30,7 @@
                 "avast":"clean",
                 "mcafree":"malicious",
                 "bitdefender":"malicious",
-                "panda":"clean"
+                "panda":"malicious"
             } 
         },
         { "id": 2,
