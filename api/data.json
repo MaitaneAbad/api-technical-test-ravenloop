@@ -13,13 +13,13 @@
             "systemConcerned": "Microsoft Windows, MacOS",
             "fileNameComplete": "NombreCompleto1",
             "fileExtension": "PDF",
-            "fileSize": "384.99 KB (394232 bytes)",
+            "fileSize": "184.99 KB ",
             "hash": {
                 "md5": "63ceba33656a5a543aca8536acfbfdd1",
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
             },
-            "ip":"192.168.0.11.",
+            "ip":"192.168.0.11",
             "scoreAnalysis":"60",
             "fileList": {
                 "fileOne":"fichero 1",
@@ -47,7 +47,7 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha1": "75a21a01cd23b730e1711c2890e9970d2f01a9ad"
             },
-            "ip":"192.198.0.91.",
+            "ip":"192.198.0.91",
             "scoreAnalysis":"80",
             "fileList": {
                 "fileOne":"fichero 1",
@@ -74,7 +74,7 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha1": "ce7590c6e4250f30a02304d2d46b528811676c2f"
             },
-            "ip":"112.167.0.81.",
+            "ip":"112.167.0.81",
             "scoreAnalysis":"0",
             "fileList": {
                 "fileOne":"fichero 1",
@@ -101,7 +101,7 @@
                 "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                 "sha1": "70719cf0a76c1c95dd1e4fb8835ff2795da8e94e"
             },
-            "ip":"62.68.60.11.",
+            "ip":"62.68.60.11",
             "scoreAnalysis":"90",
             "fileList": {
                 "fileOne":"fichero 1",
@@ -115,21 +115,21 @@
                 "panda":"malicius"
             } }, {
                 "id": 5,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
+                "fileName": "fichero5.pdf",
+                "hashmd5":"656a5a543aca8536acfbfdd163ceba33",
                 "insertionDate": "2021-11-19 09:08:38 UTC",
                 "lastUpdate": "2021-11-19 09:08:38 UTC",
                 "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "fileNameComplete": "NombreCompleto5",
                 "fileExtension": "PDF",
                 "fileSize": "384.99 KB (394232 bytes)",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                    "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
+                    "md5": "656a5a543aca8536acfbfdd163ceba33",
+                    "sha256":"9bb49bb29a38606325e0002413ea7779a0fdc8914c1576e11bb64d5af34dd90b",
+                    "sha1": "d57c07ea3500e21160e0d6d2bb9dee42bc56959c"
                 },
-                "ip":"192.168.0.11.",
-                "scoreAnalysis":"60",
+                "ip":"192.168.0.11",
+                "scoreAnalysis":"70",
                 "fileList": {
                     "fileOne":"fichero 1",
                     "fileTwo":"fichero 2",
@@ -143,20 +143,20 @@
                 } 
             }, {
                 "id": 6,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
-                "insertionDate": "2021-11-19 09:08:38 UTC",
-                "lastUpdate": "2021-11-19 09:08:38 UTC",
-                "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "fileName": "fichero6.pdf",
+                "hashmd5":"2bc56959cd57c07ea3500e21160e0d6d2bb9dee4",
+                "insertionDate": "2011-11-19 09:08:38 UTC",
+                "lastUpdate": "2011-11-19 09:08:38 UTC",
+                "systemConcerned": "Microsoft Windows",
+                "fileNameComplete": "NombreCompleto6",
                 "fileExtension": "PDF",
                 "fileSize": "384.99 KB (394232 bytes)",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                    "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
+                    "md5": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4",
+                    "sha256":"9bb024dc8914c1576e11bb613ea7779a0f4d549bb29a38606325e00af34dd90b",
+                    "sha1": "63ceba33656a5a543aca8536acfbfdd1"
                 },
-                "ip":"192.168.0.11.",
+                "ip":"192.168.0.11",
                 "scoreAnalysis":"60",
                 "fileList": {
                     "fileOne":"fichero 1",
@@ -171,25 +171,25 @@
                 } 
             }, {
                 "id": 7,
-                "fileName": "fichero1.pdf",
+                "fileName": "fichero7.pdf",
                 "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
                 "insertionDate": "2021-11-19 09:08:38 UTC",
                 "lastUpdate": "2021-11-19 09:08:38 UTC",
                 "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "fileNameComplete": "NombreCompleto7",
                 "fileExtension": "PDF",
-                "fileSize": "384.99 KB (394232 bytes)",
+                "fileSize": "434.99 KB ",
                 "hash": {
                     "md5": "63ceba33656a5a543aca8536acfbfdd1",
                     "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
                     "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
                 },
-                "ip":"192.168.0.11.",
+                "ip":"192.168.0.11",
                 "scoreAnalysis":"60",
                 "fileList": {
                     "fileOne":"fichero 1",
                     "fileTwo":"fichero 2",
-                    "fileThree":"fichero 3"
+                    "fileThree":""
                 },
                 "antivirusList":{
                     "avast":"clean",
@@ -199,21 +199,21 @@
                 } 
             }, {
                 "id": 8,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
+                "fileName": "fichero7.pdf",
+                "hashmd5":"9bb02413ea7779a0fdc8914c157",
                 "insertionDate": "2021-11-19 09:08:38 UTC",
                 "lastUpdate": "2021-11-19 09:08:38 UTC",
-                "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "systemConcerned": "Microsoft Windows, MacOS, MS-DOS",
+                "fileNameComplete": "NombreCompleto8",
                 "fileExtension": "PDF",
-                "fileSize": "384.99 KB (394232 bytes)",
+                "fileSize": "789.99 KB",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
+                    "md5": "9bb02413ea7779a0fdc8914c157",
+                    "sha256":"6e11bb64d549bb29a38606325e00af34dd90b",
                     "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
                 },
-                "ip":"192.168.0.11.",
-                "scoreAnalysis":"60",
+                "ip":"192.168.0.11",
+                "scoreAnalysis":"75",
                 "fileList": {
                     "fileOne":"fichero 1",
                     "fileTwo":"fichero 2",
@@ -227,114 +227,114 @@
                 } 
             }, {
                 "id": 9,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
+                "fileName": "fichero9.pdf",
+                "hashmd5":"5df4gvrh64d6fbv4fg6h4r6tgdf165",
                 "insertionDate": "2021-11-19 09:08:38 UTC",
                 "lastUpdate": "2021-11-19 09:08:38 UTC",
-                "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "systemConcerned": "MS-DOS, Microsoft Windows, MacOS",
+                "fileNameComplete": "NombreCompleto9",
                 "fileExtension": "PDF",
-                "fileSize": "384.99 KB (394232 bytes)",
+                "fileSize": "123.58 KB ",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
+                    "md5": "5df4gvrh64d6fbv4fg6h4r6tgdf165",
+                    "sha256":"2bc56959cd57c07ea3500e325eea3500e21160e00af34dd90b",
                     "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
                 },
-                "ip":"192.168.0.11.",
-                "scoreAnalysis":"60",
+                "ip":"62.68.60.11",
+                "scoreAnalysis":"50",
                 "fileList": {
                     "fileOne":"fichero 1",
-                    "fileTwo":"fichero 2",
-                    "fileThree":"fichero 3"
+                    "fileTwo":"",
+                    "fileThree":""
                 },
                 "antivirusList":{
                     "avast":"clean",
                     "mcafree":"malicious",
                     "bitdefender":"malicious",
-                    "panda":"malicious"
+                    "panda":"clean"
                 } 
             }, {
                 "id": 10,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
-                "insertionDate": "2021-11-19 09:08:38 UTC",
-                "lastUpdate": "2021-11-19 09:08:38 UTC",
-                "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "fileName": "fichero10.pdf",
+                "hashmd5":"465fd4g65d4fg654g6d45g45g6d54g64g",
+                "insertionDate": "2019-11-19 09:08:38 UTC",
+                "lastUpdate": "2019-11-19 09:08:38 UTC",
+                "systemConcerned": "Microsoft Windows, MacOS, Android",
+                "fileNameComplete": "NombreCompleto10",
                 "fileExtension": "PDF",
-                "fileSize": "384.99 KB (394232 bytes)",
+                "fileSize": "584.99 KB",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
+                    "md5": "465fd4g65d4fg654g6d45g45g6d54g64g",
+                    "sha256":"9bb025f5f5f5f5f1576e11bb64d549bb29a38606325e00af34dd90b",
                     "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
                 },
-                "ip":"192.168.0.11.",
-                "scoreAnalysis":"60",
+                "ip":"192.168.0.11",
+                "scoreAnalysis":"40",
                 "fileList": {
                     "fileOne":"fichero 1",
-                    "fileTwo":"fichero 2",
-                    "fileThree":"fichero 3"
+                    "fileTwo":"",
+                    "fileThree":""
                 },
                 "antivirusList":{
                     "avast":"clean",
-                    "mcafree":"malicious",
-                    "bitdefender":"malicious",
+                    "mcafree":"clean",
+                    "bitdefender":"clean",
                     "panda":"malicious"
                 } 
             }, {
                 "id": 11,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
-                "insertionDate": "2021-11-19 09:08:38 UTC",
-                "lastUpdate": "2021-11-19 09:08:38 UTC",
-                "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "fileName": "fichero11.pdf",
+                "hashmd5":"a543aca8533656a6acfb63ceba35fdd1",
+                "insertionDate": "2001-11-19 09:08:38 UTC",
+                "lastUpdate": "2001-11-19 09:08:38 UTC",
+                "systemConcerned": "Microsoft Windows, Android, MacOS",
+                "fileNameComplete": "NombreCompleto11",
                 "fileExtension": "PDF",
-                "fileSize": "384.99 KB (394232 bytes)",
+                "fileSize": "694.99 KB",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                    "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
+                    "md5": "a543aca8533656a6acfb63ceba35fdd1",
+                    "sha256":"92bc56913ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
+                    "sha1": "59cd57cbb02407ea3500e21160e0d6d2bb9dee4"
                 },
-                "ip":"192.168.0.11.",
-                "scoreAnalysis":"60",
+                "ip":"62.68.60.11",
+                "scoreAnalysis":"85",
                 "fileList": {
                     "fileOne":"fichero 1",
                     "fileTwo":"fichero 2",
                     "fileThree":"fichero 3"
                 },
                 "antivirusList":{
-                    "avast":"clean",
-                    "mcafree":"malicious",
+                    "avast":"malicious",
+                    "mcafree":"malicious", 
                     "bitdefender":"malicious",
                     "panda":"malicious"
                 } 
             }, {
                 "id": 12,
-                "fileName": "fichero1.pdf",
-                "hashmd5":"63ceba33656a5a543aca8536acfbfdd1",
-                "insertionDate": "2021-11-19 09:08:38 UTC",
-                "lastUpdate": "2021-11-19 09:08:38 UTC",
-                "systemConcerned": "Microsoft Windows, MacOS",
-                "fileNameComplete": "NombreCompleto1",
+                "fileName": "fichero12.pdf",
+                "hashmd5":"33656a5a543aca63ceba3fbfdd1",
+                "insertionDate": "2000-11-19 09:08:38 UTC",
+                "lastUpdate": "2000-11-19 09:08:38 UTC",
+                "systemConcerned": "Microsoft Windows, Ubuntu",
+                "fileNameComplete": "NombreCompleto12",
                 "fileExtension": "PDF",
-                "fileSize": "384.99 KB (394232 bytes)",
+                "fileSize": "274.99 KB",
                 "hash": {
-                    "md5": "63ceba33656a5a543aca8536acfbfdd1",
-                    "sha256":"9bb02413ea7779a0fdc8914c1576e11bb64d549bb29a38606325e00af34dd90b",
-                    "sha1": "2bc56959cd57c07ea3500e21160e0d6d2bb9dee4"
+                    "md5": "33656a5a543aca63ceba3fbfdd1",
+                    "sha256":"1bb64d549bb29a38606325e00af34dd9bb02413ea7779a0fdc8914c1576e190b",
+                    "sha1": "3500e21160e0d6d2bb9dee2bc56959cd57c07ea4"
                 },
-                "ip":"192.168.0.11.",
-                "scoreAnalysis":"60",
+                "ip":"192.198.9.98",
+                "scoreAnalysis":"50",
                 "fileList": {
-                    "fileOne":"fichero 1",
-                    "fileTwo":"fichero 2",
-                    "fileThree":"fichero 3"
+                    "fileOne":"",
+                    "fileTwo":"",
+                    "fileThree":""
                 },
                 "antivirusList":{
                     "avast":"clean",
                     "mcafree":"malicious",
-                    "bitdefender":"malicious",
+                    "bitdefender":"clean",
                     "panda":"malicious"
                 } 
             }
